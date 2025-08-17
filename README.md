@@ -1,8 +1,8 @@
 # Hi there, I'm Anjanpreet 👋  
 
-💻 MCA Graduate | Aspiring Web Developer  
-🌱 Currently learning: Full Stack Development & Designer 
-⚡ Passionate about coding, problem-solving, and building projects  
+<p>💻 MCA Graduate | Aspiring Web Developer & Designer </p>
+<p>🌱 Currently learning: Full Stack Development </p>
+<p>⚡ Passionate about coding, problem-solving, and building projects  </p>
 
 ---
 
@@ -36,10 +36,9 @@
 </p>
 
 ---
-
 ## 📫 Connect with Me
 - 📧 Email: anjan.dhaliwal0011@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/anjanpreet-kaur/)  
 - 🌐 [Portfolio](https://Anjanpreet47.github.io)  
 
-⭐️ From [Anjanpreet47](https://github.com/Anjanpreet47)
+⭐️ From [Anjanpreet](https://github.com/Anjanpreet47)
