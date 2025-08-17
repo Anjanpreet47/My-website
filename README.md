@@ -23,9 +23,18 @@
 ---
 
 ## 📂 Featured Projects
-- 🔗 [Portfolio Website](https://Anjanpreet47.github.io) – My personal portfolio  
-- 🔗 [Project 1](https://github.com/your-username/project1) – Short description  
-- 🔗 [Project 2](https://github.com/your-username/project2) – Short description  
+- 🔗 [Portfolio Website](https://Anjanpreet47.github.io) – My personal portfolio
+  
+- 🔗 [Truck repair center website(Livesite)](https://www.dtclrig.ca/) –
+  Developed a professional, fully responsive website for DTCLrig Truck Repair Center using Wix. The site delivers a streamlined user experience with essential features such as:
+- **Service Listings**: Clear presentation of repair and maintenance services.
+- **Online Contact & Booking Forms**: Simplifies appointment scheduling
+- **Google Maps Integration**: Easy navigation for customers.
+- **Mobile-Optimized Design**: Ensures seamless usability across devices.
+- **SEO-Friendly Structure**: Enhanced site visibility on search engines.
+- **Tools & Technologies**: Wix, Wix Editor, SEO tools, Custom Forms 
+
+- 🔗 [Project 2](https://www.gfln.ca/) – Short description  
 
 ---
 
